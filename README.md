@@ -154,10 +154,10 @@
  </tr>
  <tr>
   <td rowspan=13>行政管理</td>
-  <td>学校简介</td>
+  <td>学校简介&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</td>
  </tr>
  <tr>
-  <td>学校通知</td>
+  <td>学校通知                                                                                     </td>
  </tr>
  <tr>
   <td>校园新闻</td>
@@ -395,6 +395,119 @@
  </tr>
  <tr>
   <td>业务参数</td>
+ </tr>
+</table>
+
+## 4.3 小程序功能描述
+<table>
+ <tr>
+  <td>功能模块</td>
+  <td>主要功能点</td>
+ </tr>
+ <tr>
+  <td rowspan=9>首页</td>
+  <td>Banner图-可以跳转到各种功能页面</td>
+ </tr>
+ <tr>
+  <td>通知-学校通知，可以查看附件和签写回执&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</td>
+ </tr>
+ <tr>
+  <td>新闻-</td>
+ </tr>
+ <tr>
+  <td>预约</td>
+ </tr>
+ <tr>
+  <td>家校</td>
+ </tr>
+ <tr>
+  <td>菜谱</td>
+ </tr>
+ <tr>
+  <td>作业</td>
+ </tr>
+ <tr>
+  <td>校历</td>
+ </tr>
+ <tr>
+  <td>概况</td>
+ </tr>
+ <tr>
+  <td rowspan=18>应用</td>
+  <td>每日健康</td>
+ </tr>
+ <tr>
+  <td>班级通知</td>
+ </tr>
+ <tr>
+  <td>班级圈</td>
+ </tr>
+ <tr>
+  <td>缴费</td>
+ </tr>
+ <tr>
+  <td>作业</td>
+ </tr>
+ <tr>
+  <td>请假</td>
+ </tr>
+ <tr>
+  <td>选课</td>
+ </tr>
+ <tr>
+  <td>课表</td>
+ </tr>
+ <tr>
+  <td>投票</td>
+ </tr>
+ <tr>
+  <td>成绩分析</td>
+ </tr>
+ <tr>
+  <td>问卷调查</td>
+ </tr>
+ <tr>
+  <td>活动</td>
+ </tr>
+ <tr>
+  <td>学生表现</td>
+ </tr>
+ <tr>
+  <td>好文推荐</td>
+ </tr>
+ <tr>
+  <td>班级资讯</td>
+ </tr>
+ <tr>
+  <td>班级介绍</td>
+ </tr>
+ <tr>
+  <td>家委会</td>
+ </tr>
+ <tr>
+  <td>校长信箱</td>
+ </tr>
+ <tr>
+  <td rowspan=7>我的</td>
+  <td>个人中心</td>
+ </tr>
+ <tr>
+  <td>成长-奖状、证书、作品</td>
+ </tr>
+ <tr>
+  <td>证件</td>
+ </tr>
+ <tr>
+  <td>相册</td>
+ </tr>
+ <tr>
+  <td>健康</td>
+ </tr>
+ <tr>
+  <td>家校</td>
+ </tr>
+ <tr>
+  <td>关于</td>
  </tr>
 </table>
 
