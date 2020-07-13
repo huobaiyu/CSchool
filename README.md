@@ -15,10 +15,10 @@
   建立高内聚，低耦合模块。使用结构化程序设计技术，提高现有系统的可维护性。
   
 # 2 系统架构
-![系统架构](https://cschoolpic.oss-cn-hangzhou.aliyuncs.com/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84.png?Expires=1593141446&OSSAccessKeyId=TMP.3KiVnCyd2ruakpHagBEgZoUCi3AE3s7rdt9fGjHeaEQBR17jj8ncqa5RC6hABNtgpWixG9Hf6hvVmBHhSw8YCMcgxHPxFj&Signature=x5E%2BR9Dq9VPIY8XlC0fPmjr%2F0xY%3D "系统架构")
+![系统架构](https://cschoolpic.oss-cn-hangzhou.aliyuncs.com/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84.png)
 
 # 3 云服务部署图
-![云服务部署图](https://cschoolpic.oss-cn-hangzhou.aliyuncs.com/%E4%BA%91%E6%9C%8D%E5%8A%A1%E9%83%A8%E7%BD%B2%E5%9B%BE.png?Expires=1593141785&OSSAccessKeyId=TMP.3KiVnCyd2ruakpHagBEgZoUCi3AE3s7rdt9fGjHeaEQBR17jj8ncqa5RC6hABNtgpWixG9Hf6hvVmBHhSw8YCMcgxHPxFj&Signature=Vp%2FwMCPOpQe8Dmzfmzk4Dw8AiLw%3D "云服务部署图")
+![云服务部署图](https://cschoolpic.oss-cn-hangzhou.aliyuncs.com/%E4%BA%91%E6%9C%8D%E5%8A%A1%E9%83%A8%E7%BD%B2%E5%9B%BE.png)
 
 # 4 功能描述
 ## 4.1 APP功能描述
